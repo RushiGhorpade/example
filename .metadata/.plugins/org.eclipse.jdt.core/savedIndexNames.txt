@@ -1,0 +1,5 @@
+INDEX VERSION 1.134+D:\Rushikesh Task\Java Project\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+2496953441.index
+1090266882.index
+381412071.index
